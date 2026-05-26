@@ -70,6 +70,7 @@ wandb/
 lightning_logs/
 
 # Data and experiment outputs
+data/raw/
 data/processed/
 data/interim/
 artifacts/
