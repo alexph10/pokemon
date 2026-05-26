@@ -1,2 +1,2 @@
 # pokemon
-GAN implementation for generating Yu-Gi-Oh! cards
+GAN implementation for generating Pokemon cards
